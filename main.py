@@ -17,7 +17,7 @@ lb_image = QLabel("Картинка")
 btn_dir = QPushButton("Папка")
 lw_files = QListWidget()
 
-
+class kruta(): # ну тут чисто по приколу
 btn_left = QPushButton("Лево")
 btn_right = QPushButton("Право")
 btn_flip = QPushButton("Зеркало")
@@ -106,6 +106,63 @@ class ImageProcessor():
         self.saveImage()
         image_path = os.path.join(workdir, self.dirname, self.name)
         self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyhself.image.filter(ImageFilter.SHARPEN)
+        self.saveImage()
+        image_path = os.path.join(workdir, self.dirname, self.name)
+        self.ShowImage(image_path)
+      def nichego(self):
+         gTRj5yhsrfyh
 copypicture = ImageProcessor()
 
 def chooseworkdir():
